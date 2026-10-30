@@ -1,0 +1,2 @@
+/* en.lproj/InfoPlist.strings */
+"NSPhotoLibraryUsageDescription" = "The app needs access to your photos so you can add images to recipes and set a profile photo.";

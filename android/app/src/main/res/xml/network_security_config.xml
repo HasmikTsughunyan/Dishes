@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- 🎯 Թույլատրում ենք ցանկացած տեսակի ցանցային տրաֆիկ -->
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+            <certificates src="user" /> <!-- ⚡ Վստահում ենք նաև օգտատիրոջ սարքի սերտիֆիկատներին -->
+        </trust-anchors>
+    </base-config>
+</network-security-config>

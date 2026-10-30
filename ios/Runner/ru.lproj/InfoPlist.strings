@@ -1,0 +1,2 @@
+/* ru.lproj/InfoPlist.strings */
+"NSPhotoLibraryUsageDescription" = "Приложению нужен доступ к фотографиям, чтобы добавлять изображения к рецептам и устанавливать фото профиля.";
